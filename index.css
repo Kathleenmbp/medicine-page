@@ -53,3 +53,20 @@ main .carousel-inner img {
 #place img{
     max-width: 100%;
 }
+
+@media (max-width:414px) {
+    .fuente{
+        font-size: 20px;
+        margin-top: 50px;
+
+    }
+}
+
+@media (max-width:320px) {
+    .fuente{
+        font-size: 15px;
+        margin-top: 80px;
+
+    }
+    
+}
